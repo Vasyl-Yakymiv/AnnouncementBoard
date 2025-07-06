@@ -1,0 +1,20 @@
+﻿@model AnnouncementBoard.WEB.Models.Announcement
+@{
+    ViewData["Title"] = "Видалити оголошення";
+}
+
+<h2>Видалити оголошення</h2>
+
+<h4>Ви впевнені, що хочете видалити це оголошення?</h4>
+<div>
+    <strong>Заголовок:</strong> @Model.Title <br />
+    <strong>Категорія:</strong> @Model.Category / @Model.SubCategory <br />
+    <strong>Статус:</strong> @Model.Status <br />
+    <strong>Опис:</strong> @Model.Description
+</div>
+
+<form asp-action="Delete">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Видалити</button>
+    <a asp-action="Index" class="btn btn-secondary">Скасувати</a>
+</form>
