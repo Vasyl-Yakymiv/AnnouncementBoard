@@ -1,4 +1,5 @@
 ﻿using AnnouncementBoard.WEB.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AnnouncementBoard.WEB.Controllers
@@ -31,12 +32,14 @@ namespace AnnouncementBoard.WEB.Controllers
             return View(announcements);
         }
 
+        [Authorize]
         [HttpGet]
         public IActionResult Create()
         {
             return View();
         }
 
+        [Authorize]
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(Announcement announcement)
@@ -54,6 +57,7 @@ namespace AnnouncementBoard.WEB.Controllers
             return View(announcement);
         }
 
+        [Authorize]
         [HttpGet]
         public async Task<IActionResult> Edit(int id)
         {
@@ -71,6 +75,7 @@ namespace AnnouncementBoard.WEB.Controllers
             return View(announcement);
         }
 
+        [Authorize]
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, Announcement announcement)
@@ -92,6 +97,7 @@ namespace AnnouncementBoard.WEB.Controllers
             return View(announcement);
         }
 
+        [Authorize]
         [HttpGet]
         public async Task<IActionResult> Delete(int id)
         {
@@ -105,6 +111,7 @@ namespace AnnouncementBoard.WEB.Controllers
             return View(announcement);
         }
 
+        [Authorize]
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)

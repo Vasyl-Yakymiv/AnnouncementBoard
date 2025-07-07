@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SMbSaE5IPLY=",
+  "dgSpecHash": "DPUHZDxnu1k=",
   "success": true,
   "projectFilePath": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\AnnouncementBoard.WEB.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\KynguaT\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\8.0.5\\microsoft.aspnetcore.authentication.google.8.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

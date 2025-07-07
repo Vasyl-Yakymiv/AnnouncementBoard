@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/AnnouncementBoard.WEB.styles.css" asp-append-version="true" />
+    <script src="~/js/category-filter.js"></script>
 </head>
 <body>
     <header>
@@ -20,17 +21,24 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
-                        <li class="nav-item">
                             <a class="nav-link text-dark" asp-controller="Announcement" asp-action="Index">Оголошення</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-controller="Announcement" asp-action="Create">Створити оголошення</a>
                         </li>
+                        <div class="d-flex align-items-center ms-auto">
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                <span class="navbar-text me-3">Привіт, @User.Identity.Name!</span>
+                                <form asp-controller="Account" asp-action="Logout" method="post" class="m-0">
+                                    <button type="submit" class="btn btn-danger btn-sm">Вийти</button>
+                                </form>
+                            }
+                            else
+                            {
+                                <a asp-controller="Account" asp-action="Login" class="btn btn-primary btn-sm">Увійти через Google</a>
+                            }
+                        </div>
                     </ul>
                 </div>
             </div>
@@ -42,10 +50,8 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2025 - AnnouncementBoard.WEB - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-        </div>
+    <footer class="text-center mt-auto mb-3 text-muted">
+        &copy; @DateTime.Now.Year - Дошка оголошень
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>

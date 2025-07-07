@@ -1,8 +1,14 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Головна";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="text-center mt-5">
+    <h1 class="display-4">Ласкаво просимо на Дошку оголошень!</h1>
+    <p class="lead">
+        Тут ви можете створювати, переглядати, редагувати та видаляти оголошення.
+        Використовуйте меню для навігації або кнопки у верхньому правому куті для входу.
+    </p>
+    <a asp-controller="Announcement" asp-action="Index" class="btn btn-primary btn-lg mt-3">
+        Перейти до оголошень
+    </a>
 </div>

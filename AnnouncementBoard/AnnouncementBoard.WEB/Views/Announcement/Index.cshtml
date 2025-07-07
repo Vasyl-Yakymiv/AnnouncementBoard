@@ -2,11 +2,12 @@
 
 @{
     ViewData["Title"] = "Оголошення";
+    var defaultImageUrl = "https://via.placeholder.com/600x400?text=Оголошення";
 }
 
-<h2>Оголошення</h2>
+<h2 class="mb-4">Оголошення</h2>
 
-<form method="get" asp-action="Index" class="row g-3 mb-4">
+<form method="get" asp-action="Index" class="row g-3 mb-5">
     <div class="col-md-4">
         <label for="categorySelect" class="form-label">Категорія</label>
         <select id="categorySelect" name="category" class="form-select" onchange="onCategoryChange()">
@@ -26,7 +27,7 @@
     </div>
 
     <div class="col-md-4 d-flex align-items-end">
-        <button type="submit" class="btn btn-primary w-100">Фільтрувати</button>
+        <button type="submit" class="btn btn-primary w-100">🔍 Фільтрувати</button>
     </div>
 </form>
 
@@ -35,49 +36,25 @@
     {
         <div class="col-md-4 mb-4">
             <div class="card h-100 shadow-sm">
+                <img src="https://st2.depositphotos.com/4177785/8867/v/450/depositphotos_88676184-stock-illustration-modern-kitchenware-icons-set.jpg" class="card-img-top" alt="Зображення оголошення">
                 <div class="card-body">
-                    <h5 class="card-title">@item.Title</h5>
-                    <p class="card-text">@item.Description</p>
-                    <p class="text-muted">@item.Category / @item.SubCategory</p>
+                    <h5 class="card-title">
+                        @(item.Title.Length > 20 ? item.Title.Substring(0, 20) + "..." : item.Title)
+                    </h5>
+                    <p class="card-text">
+                        @(item.Description.Length > 35 ? item.Description.Substring(0, 35) + "..." : item.Description)
+                    </p>
+                    <p class="text-muted small">@item.Category / @item.SubCategory</p>
+                    <p class="text-muted small">@item.CreatedDate.ToString("dd.MM.yyyy")</p>
                     <span class="badge @(item.Status == "Active" ? "bg-success" : "bg-secondary")">
                         @item.Status
                     </span>
                 </div>
-                <div class="card-footer text-end">
-                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Редагувати</a>
-                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Видалити</a>
+                <div class="card-footer d-flex justify-content-between">
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-outline-primary">Редагувати</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-outline-danger">Видалити</a>
                 </div>
             </div>
         </div>
     }
 </div>
-
-@section Scripts {
-    <script>
-        const subCategories = {
-            "Побутова техніка": ["Холодильники", "Пральні машини", "Бойлери", "Печі", "Витяжки", "Мікрохвильові печі"],
-            "Комп'ютерна техніка": ["ПК", "Ноутбуки", "Монітори", "Принтери", "Сканери"],
-            "Смартфони": ["Android смартфони", "iOS/Apple смартфони"],
-            "Інше": ["Одяг", "Взуття", "Аксесуари", "Спортивне обладнання", "Іграшки"]
-        };
-
-        function onCategoryChange() {
-            const category = document.getElementById("categorySelect").value;
-            const subCategorySelect = document.getElementById("subCategorySelect");
-
-            subCategorySelect.innerHTML = '<option value="">-- Всі підкатегорії --</option>';
-
-            if (subCategories[category]) {
-                subCategories[category].forEach(sub => {
-                    const option = document.createElement("option");
-                    option.value = sub;
-                    option.text = sub;
-                    subCategorySelect.appendChild(option);
-                });
-            }
-        }
-
-        // Автозаповнення підкатегорій при повторному завантаженні сторінки
-        document.addEventListener("DOMContentLoaded", onCategoryChange);
-    </script>
-}

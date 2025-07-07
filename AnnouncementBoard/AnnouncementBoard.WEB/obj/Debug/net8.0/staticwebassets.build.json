@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lz4ClaNRpLikokHwB1NEVLJwsJkVrASB8NGHGP3Qkek=",
+  "Hash": "NDIQ2xHVFMwTAW0vKACWtpyoZ4OS2iDj03UIMFWXBKY=",
   "Source": "AnnouncementBoard.WEB",
   "BasePath": "_content/AnnouncementBoard.WEB",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\wwwroot\\js\\category-filter.js",
+      "SourceId": "AnnouncementBoard.WEB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\wwwroot\\",
+      "BasePath": "_content/AnnouncementBoard.WEB",
+      "RelativePath": "js/category-filter.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\category-filter.js"
     },
     {
       "Identity": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\wwwroot\\js\\site.js",

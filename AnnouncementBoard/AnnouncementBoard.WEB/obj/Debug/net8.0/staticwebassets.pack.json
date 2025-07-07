@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\wwwroot\\js\\category-filter.js",
+      "PackagePath": "staticwebassets\\js\\category-filter.js"
+    },
+    {
       "Id": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

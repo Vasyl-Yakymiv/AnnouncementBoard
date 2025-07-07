@@ -29,3 +29,6 @@ C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\Announcem
 C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard.WEB\obj\Debug\net8.0\AnnouncementBoard.WEB.pdb
 C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard.WEB\obj\Debug\net8.0\AnnouncementBoard.WEB.genruntimeconfig.cache
 C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard.WEB\obj\Debug\net8.0\ref\AnnouncementBoard.WEB.dll
+C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard.WEB\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard.WEB\obj\Debug\net8.0\AnnouncementBoard.WEB.csproj.AssemblyReference.cache
+C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard.WEB\obj\Debug\net8.0\Announce.D4BB4E91.Up2Date
