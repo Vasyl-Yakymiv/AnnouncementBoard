@@ -1,0 +1,8 @@
+C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard.WEB\obj\Release\net8.0\PubTmp\Out\AnnouncementBoard.WEB.exe
+C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard.WEB\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard.WEB\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard.WEB\obj\Release\net8.0\PubTmp\Out\AnnouncementBoard.WEB.dll
+C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard.WEB\obj\Release\net8.0\PubTmp\Out\AnnouncementBoard.WEB.deps.json
+C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard.WEB\obj\Release\net8.0\PubTmp\Out\AnnouncementBoard.WEB.runtimeconfig.json
+C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard.WEB\obj\Release\net8.0\PubTmp\Out\AnnouncementBoard.WEB.pdb
+C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard.WEB\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.Google.dll

@@ -2,7 +2,6 @@
 
 @{
     ViewData["Title"] = "Оголошення";
-    var defaultImageUrl = "https://via.placeholder.com/600x400?text=Оголошення";
 }
 
 <h2 class="mb-4">Оголошення</h2>
@@ -50,10 +49,13 @@
                         @item.Status
                     </span>
                 </div>
-                <div class="card-footer d-flex justify-content-between">
-                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-outline-primary">Редагувати</a>
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <div class="card-footer d-flex justify-content-between">
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-outline-primary">Редагувати</a>
                     <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-outline-danger">Видалити</a>
                 </div>
+                }
             </div>
         </div>
     }

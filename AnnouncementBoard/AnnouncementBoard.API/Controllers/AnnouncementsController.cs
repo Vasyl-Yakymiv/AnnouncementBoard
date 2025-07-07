@@ -1,9 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Data;
 using Dapper;
-using System.Data.SqlClient;
+using Microsoft.Data.SqlClient;
 using AnnouncementBoard.API.Models;
 using AnnouncementBoard.API.Repository;
+using Microsoft.Extensions.Configuration;
 
 namespace AnnouncementBoard.API.Controllers
 {
@@ -12,10 +13,12 @@ namespace AnnouncementBoard.API.Controllers
     public class AnnouncementsController : Controller
     {
         private readonly IAnnouncementRepository _repository;
-        public AnnouncementsController(IAnnouncementRepository repository)
+
+        public AnnouncementsController(IAnnouncementRepository repository, IConfiguration configuration)
         {
             _repository = repository;
         }
+
 
         [HttpGet]
         public async Task<IActionResult> GetAll([FromQuery] string? category, [FromQuery] string? subCategory)

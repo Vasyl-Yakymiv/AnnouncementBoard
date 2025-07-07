@@ -17,7 +17,7 @@ builder.Services.AddAuthentication(options =>
 
 builder.Services.AddHttpClient("ApiClient", client =>
 {
-    client.BaseAddress = new Uri("https://localhost:5001/api/");
+    client.BaseAddress = new Uri("https://announcementboardapi.azurewebsites.net/api/");
 })
 .ConfigurePrimaryHttpMessageHandler(() =>
 {
@@ -26,8 +26,6 @@ builder.Services.AddHttpClient("ApiClient", client =>
         ServerCertificateCustomValidationCallback = HttpClientHandler.DangerousAcceptAnyServerCertificateValidator
     };
 });
-
-
 
 var app = builder.Build();
 

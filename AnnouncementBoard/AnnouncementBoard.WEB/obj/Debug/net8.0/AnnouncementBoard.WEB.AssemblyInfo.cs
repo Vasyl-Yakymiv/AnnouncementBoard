@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AnnouncementBoard.WEB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c039a0c7dbda3d25450c702b9d5f298ee84adcaa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51b1d07468e8a5f095fe86cef7fe5462f0e25e41")]
 [assembly: System.Reflection.AssemblyProductAttribute("AnnouncementBoard.WEB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AnnouncementBoard.WEB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -11,11 +11,6 @@ C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\Announcem
 C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard.API\bin\Debug\net8.0\System.Data.SqlClient.dll
-C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
-C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
-C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
-C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard.API\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
-C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
 C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard.API\obj\Debug\net8.0\AnnouncementBoard.API.csproj.AssemblyReference.cache
 C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard.API\obj\Debug\net8.0\AnnouncementBoard.API.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard.API\obj\Debug\net8.0\AnnouncementBoard.API.AssemblyInfoInputs.cache
@@ -38,3 +33,4 @@ C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\Announcem
 C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard.API\obj\Debug\net8.0\AnnouncementBoard.API.pdb
 C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard.API\obj\Debug\net8.0\AnnouncementBoard.API.genruntimeconfig.cache
 C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard.API\obj\Debug\net8.0\ref\AnnouncementBoard.API.dll
+C:\Users\KynguaT\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard\AnnouncementBoard.API\bin\Debug\net8.0\sni.dll

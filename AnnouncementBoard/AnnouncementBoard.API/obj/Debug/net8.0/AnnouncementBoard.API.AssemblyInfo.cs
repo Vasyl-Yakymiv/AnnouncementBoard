@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AnnouncementBoard.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a1e634c6bbb24e733effd057d92ae869c78702d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51b1d07468e8a5f095fe86cef7fe5462f0e25e41")]
 [assembly: System.Reflection.AssemblyProductAttribute("AnnouncementBoard.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AnnouncementBoard.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{29CF9F06-CC10-451C-92AC-D4F777EE4D0F}|AnnouncementBoard.WEB\\AnnouncementBoard.WEB.csproj|c:\\users\\kynguat\\announcementboard\\announcementboard\\announcementboard\\announcementboard.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CF9F06-CC10-451C-92AC-D4F777EE4D0F}|AnnouncementBoard.WEB\\AnnouncementBoard.WEB.csproj|solutionrelative:announcementboard.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{29CF9F06-CC10-451C-92AC-D4F777EE4D0F}|AnnouncementBoard.WEB\\AnnouncementBoard.WEB.csproj|c:\\users\\kynguat\\announcementboard\\announcementboard\\announcementboard\\announcementboard.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{29CF9F06-CC10-451C-92AC-D4F777EE4D0F}|AnnouncementBoard.WEB\\AnnouncementBoard.WEB.csproj|solutionrelative:announcementboard.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29CF9F06-CC10-451C-92AC-D4F777EE4D0F}|AnnouncementBoard.WEB\\AnnouncementBoard.WEB.csproj|c:\\users\\kynguat\\announcementboard\\announcementboard\\announcementboard\\announcementboard.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{29CF9F06-CC10-451C-92AC-D4F777EE4D0F}|AnnouncementBoard.WEB\\AnnouncementBoard.WEB.csproj|solutionrelative:announcementboard.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CF9F06-CC10-451C-92AC-D4F777EE4D0F}|AnnouncementBoard.WEB\\AnnouncementBoard.WEB.csproj|c:\\users\\kynguat\\announcementboard\\announcementboard\\announcementboard\\announcementboard.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CF9F06-CC10-451C-92AC-D4F777EE4D0F}|AnnouncementBoard.WEB\\AnnouncementBoard.WEB.csproj|solutionrelative:announcementboard.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29CF9F06-CC10-451C-92AC-D4F777EE4D0F}|AnnouncementBoard.WEB\\AnnouncementBoard.WEB.csproj|c:\\users\\kynguat\\announcementboard\\announcementboard\\announcementboard\\announcementboard.web\\views\\announcement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -51,8 +59,8 @@
       "RelativeMoniker": "D:0:0:{0F1AF52A-79AA-443F-AA08-65FC155F22A3}|AnnouncementBoard.API\\AnnouncementBoard.API.csproj|solutionrelative:announcementboard.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F1AF52A-79AA-443F-AA08-65FC155F22A3}|AnnouncementBoard.API\\AnnouncementBoard.API.csproj|c:\\users\\kynguat\\announcementboard\\announcementboard\\announcementboard\\announcementboard.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0F1AF52A-79AA-443F-AA08-65FC155F22A3}|AnnouncementBoard.API\\AnnouncementBoard.API.csproj|solutionrelative:announcementboard.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{0F1AF52A-79AA-443F-AA08-65FC155F22A3}|AnnouncementBoard.API\\AnnouncementBoard.API.csproj|c:\\users\\kynguat\\announcementboard\\announcementboard\\announcementboard\\announcementboard.api\\interfaces\\iannouncementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1AF52A-79AA-443F-AA08-65FC155F22A3}|AnnouncementBoard.API\\AnnouncementBoard.API.csproj|solutionrelative:announcementboard.api\\interfaces\\iannouncementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F1AF52A-79AA-443F-AA08-65FC155F22A3}|AnnouncementBoard.API\\AnnouncementBoard.API.csproj|c:\\users\\kynguat\\announcementboard\\announcementboard\\announcementboard\\announcementboard.api\\repository\\announcementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,32 +71,8 @@
       "RelativeMoniker": "D:0:0:{0F1AF52A-79AA-443F-AA08-65FC155F22A3}|AnnouncementBoard.API\\AnnouncementBoard.API.csproj|solutionrelative:announcementboard.api\\models\\announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F1AF52A-79AA-443F-AA08-65FC155F22A3}|AnnouncementBoard.API\\AnnouncementBoard.API.csproj|c:\\users\\kynguat\\announcementboard\\announcementboard\\announcementboard\\announcementboard.api\\interfaces\\iannouncementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F1AF52A-79AA-443F-AA08-65FC155F22A3}|AnnouncementBoard.API\\AnnouncementBoard.API.csproj|solutionrelative:announcementboard.api\\interfaces\\iannouncementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0F1AF52A-79AA-443F-AA08-65FC155F22A3}|AnnouncementBoard.API\\AnnouncementBoard.API.csproj|c:\\users\\kynguat\\announcementboard\\announcementboard\\announcementboard\\announcementboard.api\\controllers\\announcementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F1AF52A-79AA-443F-AA08-65FC155F22A3}|AnnouncementBoard.API\\AnnouncementBoard.API.csproj|solutionrelative:announcementboard.api\\controllers\\announcementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29CF9F06-CC10-451C-92AC-D4F777EE4D0F}|AnnouncementBoard.WEB\\AnnouncementBoard.WEB.csproj|c:\\users\\kynguat\\announcementboard\\announcementboard\\announcementboard\\announcementboard.web\\wwwroot\\js\\category-filter.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{29CF9F06-CC10-451C-92AC-D4F777EE4D0F}|AnnouncementBoard.WEB\\AnnouncementBoard.WEB.csproj|solutionrelative:announcementboard.web\\wwwroot\\js\\category-filter.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29CF9F06-CC10-451C-92AC-D4F777EE4D0F}|AnnouncementBoard.WEB\\AnnouncementBoard.WEB.csproj|c:\\users\\kynguat\\announcementboard\\announcementboard\\announcementboard\\announcementboard.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{29CF9F06-CC10-451C-92AC-D4F777EE4D0F}|AnnouncementBoard.WEB\\AnnouncementBoard.WEB.csproj|solutionrelative:announcementboard.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29CF9F06-CC10-451C-92AC-D4F777EE4D0F}|AnnouncementBoard.WEB\\AnnouncementBoard.WEB.csproj|c:\\users\\kynguat\\announcementboard\\announcementboard\\announcementboard\\announcementboard.web\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{29CF9F06-CC10-451C-92AC-D4F777EE4D0F}|AnnouncementBoard.WEB\\AnnouncementBoard.WEB.csproj|solutionrelative:announcementboard.web\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29CF9F06-CC10-451C-92AC-D4F777EE4D0F}|AnnouncementBoard.WEB\\AnnouncementBoard.WEB.csproj|c:\\users\\kynguat\\announcementboard\\announcementboard\\announcementboard\\announcementboard.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29CF9F06-CC10-451C-92AC-D4F777EE4D0F}|AnnouncementBoard.WEB\\AnnouncementBoard.WEB.csproj|solutionrelative:announcementboard.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29CF9F06-CC10-451C-92AC-D4F777EE4D0F}|AnnouncementBoard.WEB\\AnnouncementBoard.WEB.csproj|c:\\users\\kynguat\\announcementboard\\announcementboard\\announcementboard\\announcementboard.web\\announcementboard.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{29CF9F06-CC10-451C-92AC-D4F777EE4D0F}|AnnouncementBoard.WEB\\AnnouncementBoard.WEB.csproj|solutionrelative:announcementboard.web\\announcementboard.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,24 +82,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "AnnouncementBoard.WEB\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "AnnouncementBoard.WEB\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-07T07:54:24.095Z",
+              "WhenOpened": "2025-07-07T19:59:36.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AnnouncementBoard.WEB\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AnnouncementBoard.WEB\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T19:59:30.238Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Views\\Announcement\\Index.cshtml",
+              "RelativeDocumentMoniker": "AnnouncementBoard.WEB\\Views\\Announcement\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Views\\Announcement\\Index.cshtml",
+              "RelativeToolTip": "AnnouncementBoard.WEB\\Views\\Announcement\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T19:58:50.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Views\\Announcement\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AnnouncementBoard.WEB\\Views\\Announcement\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Views\\Announcement\\Edit.cshtml",
+              "RelativeToolTip": "AnnouncementBoard.WEB\\Views\\Announcement\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T19:58:47.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Views\\Announcement\\Delete.cshtml",
               "RelativeDocumentMoniker": "AnnouncementBoard.WEB\\Views\\Announcement\\Delete.cshtml",
@@ -123,12 +146,51 @@
               "RelativeToolTip": "AnnouncementBoard.WEB\\Views\\Announcement\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-07T07:54:11.692Z",
+              "WhenOpened": "2025-07-07T19:58:44.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Views\\Announcement\\Create.cshtml",
+              "RelativeDocumentMoniker": "AnnouncementBoard.WEB\\Views\\Announcement\\Create.cshtml",
+              "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Views\\Announcement\\Create.cshtml",
+              "RelativeToolTip": "AnnouncementBoard.WEB\\Views\\Announcement\\Create.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T19:58:41.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\appsettings.json",
+              "RelativeDocumentMoniker": "AnnouncementBoard.WEB\\appsettings.json",
+              "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\appsettings.json",
+              "RelativeToolTip": "AnnouncementBoard.WEB\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T19:56:06.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Program.cs",
+              "RelativeDocumentMoniker": "AnnouncementBoard.WEB\\Program.cs",
+              "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Program.cs",
+              "RelativeToolTip": "AnnouncementBoard.WEB\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:56:54.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Announcement.cs",
               "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Models\\Announcement.cs",
               "RelativeDocumentMoniker": "AnnouncementBoard.WEB\\Models\\Announcement.cs",
@@ -136,142 +198,51 @@
               "RelativeToolTip": "AnnouncementBoard.WEB\\Models\\Announcement.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T07:41:52.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Views\\Announcement\\Edit.cshtml",
-              "RelativeDocumentMoniker": "AnnouncementBoard.WEB\\Views\\Announcement\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Views\\Announcement\\Edit.cshtml",
-              "RelativeToolTip": "AnnouncementBoard.WEB\\Views\\Announcement\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-07T07:42:18.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Views\\Announcement\\Index.cshtml",
-              "RelativeDocumentMoniker": "AnnouncementBoard.WEB\\Views\\Announcement\\Index.cshtml",
-              "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Views\\Announcement\\Index.cshtml",
-              "RelativeToolTip": "AnnouncementBoard.WEB\\Views\\Announcement\\Index.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-07T07:51:21.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\appsettings.json",
-              "RelativeDocumentMoniker": "AnnouncementBoard.WEB\\appsettings.json",
-              "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\appsettings.json",
-              "RelativeToolTip": "AnnouncementBoard.WEB\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-07T06:50:47.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "AnnouncementBoard.WEB\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "AnnouncementBoard.WEB\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T07:21:27.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AnnouncementController.cs",
-              "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Controllers\\AnnouncementController.cs",
-              "RelativeDocumentMoniker": "AnnouncementBoard.WEB\\Controllers\\AnnouncementController.cs",
-              "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Controllers\\AnnouncementController.cs",
-              "RelativeToolTip": "AnnouncementBoard.WEB\\Controllers\\AnnouncementController.cs",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAAAHAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T12:01:32.174Z",
+              "WhenOpened": "2025-07-07T19:58:35.628Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "AnnouncementBoard.WEB\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "AnnouncementBoard.WEB\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AnnouncementBoard.WEB\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AnnouncementBoard.WEB\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T06:52:13.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Views\\Announcement\\Create.cshtml",
-              "RelativeDocumentMoniker": "AnnouncementBoard.WEB\\Views\\Announcement\\Create.cshtml",
-              "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Views\\Announcement\\Create.cshtml",
-              "RelativeToolTip": "AnnouncementBoard.WEB\\Views\\Announcement\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-07T07:03:30.783Z",
+              "WhenOpened": "2025-07-07T19:58:29.818Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.API\\Program.cs",
-              "RelativeDocumentMoniker": "AnnouncementBoard.API\\Program.cs",
-              "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.API\\Program.cs",
-              "RelativeToolTip": "AnnouncementBoard.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Title": "AnnouncementController.cs",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Controllers\\AnnouncementController.cs",
+              "RelativeDocumentMoniker": "AnnouncementBoard.WEB\\Controllers\\AnnouncementController.cs",
+              "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Controllers\\AnnouncementController.cs",
+              "RelativeToolTip": "AnnouncementBoard.WEB\\Controllers\\AnnouncementController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T07:53:22.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.API\\appsettings.json",
-              "RelativeDocumentMoniker": "AnnouncementBoard.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.API\\appsettings.json",
-              "RelativeToolTip": "AnnouncementBoard.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-07T07:53:19.425Z",
+              "WhenOpened": "2025-07-07T19:58:25.398Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.API\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "AnnouncementBoard.API\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.API\\appsettings.Development.json",
-              "RelativeToolTip": "AnnouncementBoard.API\\appsettings.Development.json",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.API\\Program.cs",
+              "RelativeDocumentMoniker": "AnnouncementBoard.API\\Program.cs",
+              "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.API\\Program.cs",
+              "RelativeToolTip": "AnnouncementBoard.API\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-07T07:53:15.537Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:58:14.408Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Announcement.cs",
               "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.API\\Models\\Announcement.cs",
               "RelativeDocumentMoniker": "AnnouncementBoard.API\\Models\\Announcement.cs",
@@ -279,107 +250,73 @@
               "RelativeToolTip": "AnnouncementBoard.API\\Models\\Announcement.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T07:53:06.331Z",
+              "WhenOpened": "2025-07-07T19:57:58.658Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AnnouncementsController.cs",
-              "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.API\\Controllers\\AnnouncementsController.cs",
-              "RelativeDocumentMoniker": "AnnouncementBoard.API\\Controllers\\AnnouncementsController.cs",
-              "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.API\\Controllers\\AnnouncementsController.cs",
-              "RelativeToolTip": "AnnouncementBoard.API\\Controllers\\AnnouncementsController.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAACQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T12:00:25.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AnnouncementRepository.cs",
-              "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.API\\Repository\\AnnouncementRepository.cs",
-              "RelativeDocumentMoniker": "AnnouncementBoard.API\\Repository\\AnnouncementRepository.cs",
-              "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.API\\Repository\\AnnouncementRepository.cs",
-              "RelativeToolTip": "AnnouncementBoard.API\\Repository\\AnnouncementRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T12:00:14.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "IAnnouncementRepository.cs",
               "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.API\\Interfaces\\IAnnouncementRepository.cs",
               "RelativeDocumentMoniker": "AnnouncementBoard.API\\Interfaces\\IAnnouncementRepository.cs",
               "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.API\\Interfaces\\IAnnouncementRepository.cs",
               "RelativeToolTip": "AnnouncementBoard.API\\Interfaces\\IAnnouncementRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T12:49:57.433Z",
+              "WhenOpened": "2025-07-07T19:57:52.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AnnouncementBoard.WEB\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AnnouncementBoard.WEB\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:56:48.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AnnouncementRepository.cs",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.API\\Repository\\AnnouncementRepository.cs",
+              "RelativeDocumentMoniker": "AnnouncementBoard.API\\Repository\\AnnouncementRepository.cs",
+              "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.API\\Repository\\AnnouncementRepository.cs",
+              "RelativeToolTip": "AnnouncementBoard.API\\Repository\\AnnouncementRepository.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T19:54:31.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.API\\appsettings.json",
+              "RelativeDocumentMoniker": "AnnouncementBoard.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.API\\appsettings.json",
+              "RelativeToolTip": "AnnouncementBoard.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T19:54:44.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "category-filter.js",
-              "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\wwwroot\\js\\category-filter.js",
-              "RelativeDocumentMoniker": "AnnouncementBoard.WEB\\wwwroot\\js\\category-filter.js",
-              "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\wwwroot\\js\\category-filter.js",
-              "RelativeToolTip": "AnnouncementBoard.WEB\\wwwroot\\js\\category-filter.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-07-07T07:44:58.785Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "AnnouncementBoard.WEB\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "AnnouncementBoard.WEB\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-07T07:11:56.91Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "AnnouncementBoard.WEB\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "AnnouncementBoard.WEB\\wwwroot\\js\\site.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-07-07T07:31:53.542Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Program.cs",
-              "RelativeDocumentMoniker": "AnnouncementBoard.WEB\\Program.cs",
-              "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\Program.cs",
-              "RelativeToolTip": "AnnouncementBoard.WEB\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAADEAAAAmAAAA",
+              "Title": "AnnouncementsController.cs",
+              "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.API\\Controllers\\AnnouncementsController.cs",
+              "RelativeDocumentMoniker": "AnnouncementBoard.API\\Controllers\\AnnouncementsController.cs",
+              "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.API\\Controllers\\AnnouncementsController.cs",
+              "RelativeToolTip": "AnnouncementBoard.API\\Controllers\\AnnouncementsController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAFAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T06:46:09.39Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AnnouncementBoard.WEB.csproj",
-              "DocumentMoniker": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\AnnouncementBoard.WEB.csproj",
-              "RelativeDocumentMoniker": "AnnouncementBoard.WEB\\AnnouncementBoard.WEB.csproj",
-              "ToolTip": "C:\\Users\\KynguaT\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard\\AnnouncementBoard.WEB\\AnnouncementBoard.WEB.csproj",
-              "RelativeToolTip": "AnnouncementBoard.WEB\\AnnouncementBoard.WEB.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-07T06:47:24.361Z"
+              "WhenOpened": "2025-07-07T19:52:28.923Z",
+              "EditorCaption": ""
             }
           ]
         }
